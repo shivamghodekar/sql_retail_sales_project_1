@@ -4,7 +4,7 @@ This project contains a set of SQL queries to analyze retail sales data. The que
 
 ## 📊 Project Description
 
-In this project, I have solved 10 SQL problems related to retail sales data. The dataset includes information such as transaction details, categories, total_sale, customer_is.
+In this project, I have solved 10 SQL problems related to retail sales data.
 
 The goal is to demonstrate proficiency in writing SQL queries for data analysis, including filtering, aggregation, grouping, and performing complex calculations.
 
