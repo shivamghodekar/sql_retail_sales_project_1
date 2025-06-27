@@ -15,24 +15,28 @@ The goal is to demonstrate proficiency in writing SQL queries for data analysis,
 Below are the questions covered in this project:
 
 1. **Retrieve all columns for sales made on `2022-11-05`.**
+   '''sql
+   SELECT * FROM retail_sales
+   WHERE sale_date = '2022-11-05'
+   '''
 
-2. **Retrieve all transactions where the category is `Clothing` and the quantity sold is more than 10 in November 2022.**
+3. **Retrieve all transactions where the category is `Clothing` and the quantity sold is more than 10 in November 2022.**
 
-3. **Calculate the total sales (`total_sale`) for each category.**
+4. **Calculate the total sales (`total_sale`) for each category.**
 
-4. **Find the average age of customers who purchased items from the `Beauty` category.**
+5. **Find the average age of customers who purchased items from the `Beauty` category.**
 
-5. **Find all transactions where the `total_sale` is greater than 1000.**
+6. **Find all transactions where the `total_sale` is greater than 1000.**
 
-6. **Find the total number of transactions (`transaction_id`) made by each gender in each category.**
+7. **Find the total number of transactions (`transaction_id`) made by each gender in each category.**
 
-7. **Calculate the average sale for each month and find the best-selling month in each year.**
+8. **Calculate the average sale for each month and find the best-selling month in each year.**
 
-8. **Find the top 5 customers based on the highest total sales.**
+9. **Find the top 5 customers based on the highest total sales.**
 
-9. **Find the number of unique customers who purchased items from each category.**
+10. **Find the number of unique customers who purchased items from each category.**
 
-10. **Create a report showing each shift (Morning, Afternoon, Evening) and the number of orders in each shift:**
+11. **Create a report showing each shift (Morning, Afternoon, Evening) and the number of orders in each shift:**
     - Morning: Time <= 12
     - Afternoon: 12 < Time <= 17
     - Evening: Time > 17
