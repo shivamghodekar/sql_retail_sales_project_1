@@ -4,7 +4,7 @@ This project contains a set of SQL queries to analyze retail sales data. The que
 
 ## 📊 Project Description
 
-In this project, I have solved 10 SQL problems related to retail sales data. The dataset includes information such as transaction details, categories, sales amounts, customer demographics, and timestamps.
+In this project, I have solved 10 SQL problems related to retail sales data. The dataset includes information such as transaction details, categories, total_sale, customer_is.
 
 The goal is to demonstrate proficiency in writing SQL queries for data analysis, including filtering, aggregation, grouping, and performing complex calculations.
 
@@ -41,7 +41,7 @@ Below are the questions covered in this project:
 
 ## 🛠️ Technologies Used
 
-- SQL (MySQL / PostgreSQL / or your preferred RDBMS)
-- Any SQL IDE (e.g., MySQL Workbench, DBeaver, pgAdmin)
+- SQL ( MySQL / PostgreSQL )
+- Any SQL IDE (e.g., MySQL, pgAdmin)
 
 ---
